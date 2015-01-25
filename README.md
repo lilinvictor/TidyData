@@ -4,7 +4,7 @@ Welcome to Git repo for cleaning data project
 
 ## About the tidy data
 
-For explanation of variables in tidy data and how they are selected and generated, please see [code book](CodeBook.MD).
+For explanation of variables in tidy data and how they are selected and generated, please see [code book](CodeBook.md).
 
 ## Configuration
 
